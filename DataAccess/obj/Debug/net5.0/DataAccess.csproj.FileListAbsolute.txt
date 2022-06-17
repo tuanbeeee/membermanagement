@@ -1,0 +1,15 @@
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Tuan Be\source\repos\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb

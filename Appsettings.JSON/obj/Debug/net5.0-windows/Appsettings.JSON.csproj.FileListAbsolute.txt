@@ -1,0 +1,5 @@
+C:\Users\Tuan Be\source\repos\Ass01Solution\Appsettings.JSON\obj\Debug\net5.0-windows\Appsettings.JSON.csproj.AssemblyReference.cache
+C:\Users\Tuan Be\source\repos\Ass01Solution\Appsettings.JSON\obj\Debug\net5.0-windows\Appsettings.JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuan Be\source\repos\Ass01Solution\Appsettings.JSON\obj\Debug\net5.0-windows\Appsettings.JSON.AssemblyInfoInputs.cache
+C:\Users\Tuan Be\source\repos\Ass01Solution\Appsettings.JSON\obj\Debug\net5.0-windows\Appsettings.JSON.AssemblyInfo.cs
+C:\Users\Tuan Be\source\repos\Ass01Solution\Appsettings.JSON\obj\Debug\net5.0-windows\Appsettings.JSON.csproj.CoreCompileInputs.cache
